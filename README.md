@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FFFFF0?style=flat-square&logo=Instagram&logoColor=8B4513&link=https://www.instagram.com/gnuxnue/)](https://www.instagram.com/gnuxnue/)
+
+![image](https://github.com/user-attachments/assets/b11f9cca-250e-4681-8ac2-2ed13fe11aae)
