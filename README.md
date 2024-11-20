@@ -19,3 +19,6 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimmmeunsung&count_bg=%2340E3A3&title_bg=%23484848&icon=apachespark.svg&icon_color=%23FFAAE7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 	
   </div>
+
+
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%8B%AC%EC%9D%80%EC%84%B1-g6d)](https://www.youtube.com/@%EC%8B%AC%EC%9D%80%EC%84%B1-g6d)
