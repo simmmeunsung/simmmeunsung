@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%8B%AC%EC%9D%80%EC%84%B1-g6d)](https://www.youtube.com/@%EC%8B%AC%EC%9D%80%EC%84%B1-g6d)
+
+
+
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-FFFFF0?style=flat-square&logo=Instagram&logoColor=8B4513&link=https://www.instagram.com/gnuxnue/)](https://www.instagram.com/gnuxnue/)
