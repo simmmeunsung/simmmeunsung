@@ -4,7 +4,7 @@
 
 <div align=center>
 
-📫 연락: [email](ses1323k@naver.com)
+📫 연락: [My email📧](ses1323k@naver.com)
  ***
  
  <br>
