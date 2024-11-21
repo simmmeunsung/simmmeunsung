@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimmmeunsung&count_bg=%23999999&title_bg=%23000000&icon=spreaker.svg&icon_color=%23FF8BF9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-	
+   
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&duration=700&pause=300&color=203D5C&background=FFFFFF&center=true&vCenter=true&random=true&width=300&height=30&lines=CAU+Art%26Tech;20234383+SimEunSung)](https://git.io/typing-svg)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimmmeunsung&count_bg=%23999999&title_bg=%23000000&icon=spreaker.svg&icon_color=%23FF8BF9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
   </div>
 
   
