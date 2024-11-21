@@ -1,13 +1,19 @@
-## 🐰안녕하세요🐰
+<h1>🐰안녕하세요🐰</h1>
+
 
 
 <div align=center>
-   
- 📫 연락: [email](ses1323k@naver.com)
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&duration=700&pause=300&color=203D5C&background=FFFFFF&center=true&vCenter=true&random=true&width=300&height=30&lines=CAU+Art%26Tech;20234383+SimEunSung)](https://git.io/typing-svg)
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimmmeunsung&count_bg=%23999999&title_bg=%23000000&icon=spreaker.svg&icon_color=%23FF8BF9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+📫 연락: [email](ses1323k@naver.com)
+ ***
+ 
+ <br>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&duration=700&pause=300&color=203D5C&background=FFFFFF&center=true&vCenter=true&random=true&width=300&height=30&lines=CAU+Art%26Tech;20234383+SimEunSung)](https://git.io/typing-svg)<br><br>
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimmmeunsung&count_bg=%23999999&title_bg=%23000000&icon=spreaker.svg&icon_color=%23FF8BF9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br><br>
+
+
+***
  | School ✍ʕ•ᴥ•oʔ |
 | --- | 
 | 봉황초등학교 | 
@@ -18,8 +24,7 @@
 
   </div>
   
-
-
+***
 
 <div align=center>
 
@@ -32,9 +37,9 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
  </div>
+<br>
 
-
-
+***
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&pause=1000&color=F785BC&background=000000&center=true&vCenter=true&width=435&lines=+++++%D9%A9(%E2%9C%BF%E2%88%82%E2%80%BF%E2%88%82%E2%9C%BF)%DB%B6+Follow+Me++%D9%A9(%E2%9C%BF%E2%88%82%E2%80%BF%E2%88%82%E2%9C%BF)%DB%B6)](https://git.io/typing-svg)
 
