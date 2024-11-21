@@ -1,4 +1,5 @@
-## 🐰안녕하세욤🐰
+## 🐰안녕하세요🐰
+
 
 <!--
 **simmmeunsung/simmmeunsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,3 +31,9 @@ Here are some ideas to get you started:
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&size=21&pause=1000&color=5C4333&background=D3FEFF&center=true&vCenter=true&width=435&lines=(%E1%90%A1-%DC%AB%E2%80%A2%E1%90%A1)+My+Puppy+Mansik+%EF%BB%BF+(%E1%90%A1-%DC%AB%E2%80%A2%E1%90%A1))](https://git.io/typing-svg)
+
+Mansik , Maltipoo , ♂️
+
+
+<img src="https://github.com/user-attachments/assets/4c18c749-f394-4f5e-9334-422af0f10e91" width="450" />
+
