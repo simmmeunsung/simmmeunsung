@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%8B%AC%EC%9D%80%EC%84%B1-g6d)](https://www.youtube.com/@%EC%8B%AC%EC%9D%80%EC%84%B1-g6d)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FFFFF0?style=flat-square&logo=Instagram&logoColor=8B4513&link=https://www.instagram.com/gnuxnue/)](https://www.instagram.com/gnuxnue/)
 
-![gif](https://github.com/user-attachments/assets/34eeff96-f7c3-4121-881c-193d8c7d423a)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&size=21&pause=1000&color=5C4333&background=D3FEFF&center=true&vCenter=true&width=435&lines=(%E1%90%A1-%DC%AB%E2%80%A2%E1%90%A1)+My+Puppy+Mansik+%EF%BB%BF+(%E1%90%A1-%DC%AB%E2%80%A2%E1%90%A1))](https://git.io/typing-svg)
