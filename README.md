@@ -32,6 +32,18 @@
 </details>
 
 
+<details>
+<summary>
+  <h2>🔎My Projects</h2>
+</summary>
+ <p align="center">
+  
+ </p>
+ 
+
+</details>
+
+
 
 <h2>Contect</h2>
 
@@ -66,7 +78,8 @@
 <br>
 
 ***
-  
+<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&pause=1000&color=F785BC&background=000000&center=true&vCenter=true&width=435&lines=+++++%D9%A9(%E2%9C%BF%E2%88%82%E2%80%BF%E2%88%82%E2%9C%BF)%DB%B6+Follow+Me++%D9%A9(%E2%9C%BF%E2%88%82%E2%80%BF%E2%88%82%E2%9C%BF)%DB%B6)](https://git.io/typing-svg)
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%8B%AC%EC%9D%80%EC%84%B1-g6d)](https://www.youtube.com/@%EC%8B%AC%EC%9D%80%EC%84%B1-g6d)
@@ -80,3 +93,5 @@
 
 <img src="https://github.com/user-attachments/assets/4c18c749-f394-4f5e-9334-422af0f10e91" width="300" />
 
+  
+</p>
