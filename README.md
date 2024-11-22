@@ -73,7 +73,27 @@ Assignment : Project Organization
  <summary>
  <h3>Computer Graphics</h3>
  </summary>
-  컴그내용
+ 
+  ***[Project Overview]***
+ <br>
+Project Name: Final Project <br>
+Description: Make SOR Modeller & Maze with OpenGL <br>
+ <br>
+***[Current Status]*** <br>
+Current Stage: 개발중<br>
+Progress: 진행률 50%<br><br>
+**-완료-**  <br>
+[SOR Modeller] <br>
+[Maze & Game design] <br>
+
+**-진행중-**  <br>
+[Place the SOR model in the maze] <br>
+[Game implementation] <br>
+<br>
+***Timeline***  <br>
+Start Date: [11/6] <br>
+End Date: [12/7]
+
 </details>
   
 <details>
