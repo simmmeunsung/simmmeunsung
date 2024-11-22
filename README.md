@@ -4,9 +4,7 @@
 
 <div align=center>
 
-📫 연락: [My email📧](ses1323k@naver.com)
- ***
- 
+
  <br>
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimmmeunsung&count_bg=%23999999&title_bg=%23000000&icon=spreaker.svg&icon_color=%23FF8BF9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br><br>
@@ -14,6 +12,13 @@
 <h2>My Information</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&duration=700&pause=300&color=203D5C&background=FFFFFF&center=true&vCenter=true&random=true&width=300&height=30&lines=CAU+Art%26Tech;20234383+SimEunSung)](https://git.io/typing-svg)<br><br>
+
+<h3>Contect</h3>
+
+📫 연락: [My email📧](ses1323k@naver.com)
+
+<br>
+
  | School |       
 | --- | 
 | 봉황초등학교 | 
@@ -35,11 +40,17 @@
   ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)
   ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
   ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)|
-  <br><br>
+  <br>
   <h3>Backand</h3>
   
   |![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 |
+<h3>Environment</h3>
+
+|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)|
+
 
  </div>
 <br>
