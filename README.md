@@ -79,6 +79,7 @@ Assignment : Project Organization
 Project Name: Final Project <br>
 Description: Make SOR Modeller & Maze with OpenGL <br>
 Language: C++ <br>
+나의역할: 미로 구성, 게임 디자인, 일부 기능 구현<br>
  <br>
 ***[Current Status]*** <br>
 Current Stage: 개발중<br>
@@ -111,6 +112,7 @@ Project Name: Final Project <br>
 Description: 성장형 스토리 게임  <br>
 Tools: Unity, Maya, SunoAI 등<br>
 Language: C# <br>
+나의 역할: 일부 기획, 디자인, 리깅, 대화창 구현 등 <br>
  <br>
 ***[Current Status]*** <br>
 Current Stage: 개발중<br>
@@ -121,7 +123,7 @@ Progress: 진행률 30%<br><br>
 <img width="292" alt="KakaoTalk_20241122_134848679" src="https://github.com/user-attachments/assets/160a83ee-4de2-4f3d-806f-8e5ecc49f98b">
 
 [대화창 전개] <br>
-<img width="300" alt="KakaoTalk_20241122_135102515" src="https://github.com/user-attachments/assets/e46ee69a-1e1e-4676-81a1-cbbe37bfd71c">
+<img width="300" alt="KakaoTalk_20241122_135102515" src="https://github.com/user-attachments/assets/e46ee69a-1e1e-4676-81a1-cbbe37bfd71c"><br>
 [일부 게임 구현] <br>
 
 
@@ -136,9 +138,36 @@ End Date: [12/13]
 
 <details>
  <summary>
-  <h3>창의학점제</h3>
+  <h3>Diorama with Arduino</h3>
  </summary>
- 내용
+ 
+  ***[Project Overview]***
+ <br>
+Project Name: Well-being in Davinci Campus <br>
+Description: Diorama with Arduino  <br>
+Language: C++ <br>
+나의 역할: 일부 기획, 디오라마 제작, 아두이노 제작 <br>
+ <br>
+***[Current Status]*** <br>
+Current Stage: 개발중<br>
+Progress: 진행률 60%<br>
+
+**-진행중-**  <br>
+[Campus Diorama] <br>
+<img src="https://github.com/user-attachments/assets/2d60ca60-9a9d-4c9b-a922-5c460fd185d3" width="300">
+
+[Arduino] <br>
+<img src="https://github.com/user-attachments/assets/59827d14-c665-403f-ad92-39229ca375a4" width="300">
+
+
+<img src="https://github.com/user-attachments/assets/520c55eb-d617-447b-89a7-79f6d3953f57" width="300">
+
+<br>
+***Timeline***  <br>
+Start Date: [9/11] <br>
+End Date: [12/10]
+</details>
+
 </details>
 
 
