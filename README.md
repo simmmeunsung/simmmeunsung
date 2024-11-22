@@ -104,7 +104,34 @@ End Date: [12/7]
  <summary>
   <h3>Game Engine</h3>
  </summary>
- 겜엔내용
+ 
+ ***[Project Overview]***
+ <br>
+Project Name: Final Project <br>
+Description: 성장형 스토리 게임  <br>
+Tools: Unity, Maya, SunoAI 등<br>
+Language: C# <br>
+ <br>
+***[Current Status]*** <br>
+Current Stage: 개발중<br>
+Progress: 진행률 30%<br><br>
+**-완료-**  <br>
+[Flow Chart] <br>
+
+<img width="292" alt="KakaoTalk_20241122_134848679" src="https://github.com/user-attachments/assets/160a83ee-4de2-4f3d-806f-8e5ecc49f98b">
+
+[대화창 전개] <br>
+<img width="300" alt="KakaoTalk_20241122_135102515" src="https://github.com/user-attachments/assets/e46ee69a-1e1e-4676-81a1-cbbe37bfd71c">
+[일부 게임 구현] <br>
+
+
+**-진행중-**  <br>
+[AI 영상 제작] <br>
+[Game implementation] <br>
+<br>
+***Timeline***  <br>
+Start Date: [11/1] <br>
+End Date: [12/13]
 </details>
 
 <details>
