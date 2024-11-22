@@ -5,11 +5,17 @@
 
  <br>
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimmmeunsung&count_bg=%23999999&title_bg=%23000000&icon=spreaker.svg&icon_color=%23FF8BF9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simmmeunsung&hide=contribs,prs&show_icons=true&theme=dark" alt="simmmeunsung's GitHub stats">
+
+ 
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimmmeunsung&count_bg=%23999999&title_bg=%23000000&icon=spreaker.svg&icon_color=%23FF8BF9&title=hits&edge_flat=false" alt="Hits">
+</p>
+
 
 <details>
 <summary>
-  <h2>My Information</h2>
+  <h2>🔎My Information</h2>
 </summary>
  
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&duration=700&pause=300&color=203D5C&background=FFFFFF&center=true&vCenter=true&random=true&width=300&height=30&lines=CAU+Art%26Tech;20234383+SimEunSung)](https://git.io/typing-svg)<br><br>
