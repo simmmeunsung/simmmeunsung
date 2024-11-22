@@ -78,6 +78,7 @@ Assignment : Project Organization
  <br>
 Project Name: Final Project <br>
 Description: Make SOR Modeller & Maze with OpenGL <br>
+Language: C++ <br>
  <br>
 ***[Current Status]*** <br>
 Current Stage: 개발중<br>
