@@ -27,13 +27,14 @@ My Email📧: ses1323k@naver.com
  
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&duration=700&pause=300&color=203D5C&background=FFFFFF&center=true&vCenter=true&random=true&width=300&height=30&lines=CAU+Art%26Tech;20234383+SimEunSung)](https://git.io/typing-svg)<br><br>
 
- <h3>1. Field</h3>
+ <h3>1. Fields</h3>
   2D/3D Design, Media Art, Photography, GameEngine
   <br><br>
- <h3>2. 주요 역할</h3>
+ <h3>2. Key Roles </h3>
  Designer, Creative Director
-
-
+ <br><br>
+ <h3>3. My GitHub Goals</h3>
+Assignment : Project Organization
 
 </details>
 
