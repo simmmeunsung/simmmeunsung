@@ -4,7 +4,7 @@
  
 <h3>☎️Contact</h3>
 
-My Email📧: [ses1323k@naver.com](ses1323k@naver.com)
+My Email📧: ses1323k@naver.com
 
 ***
 
