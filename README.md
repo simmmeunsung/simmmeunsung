@@ -14,7 +14,7 @@
 <h2>My Information</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&duration=700&pause=300&color=203D5C&background=FFFFFF&center=true&vCenter=true&random=true&width=300&height=30&lines=CAU+Art%26Tech;20234383+SimEunSung)](https://git.io/typing-svg)<br><br>
- | School ✍ʕ•ᴥ•oʔ |       
+ | School |       
 | --- | 
 | 봉황초등학교 | 
 | 가야중학교 |
@@ -28,13 +28,18 @@
 
 <div align=center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&duration=700&pause=300&color=FFFFFF&background=000000&center=true&vCenter=true&repeat=false&random=true&width=200&height=40&lines=Tech+Stack)](https://git.io/typing-svg)
+<h2>Stack</h2>
+<h3>3D Tools</h3>
 
 |  ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)
   ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)
-  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)|
+  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)|
+  <br><br>
+  <h3>Backand</h3>
+  
+  |![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+|
 
  </div>
 <br>
