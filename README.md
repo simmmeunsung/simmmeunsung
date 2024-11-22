@@ -23,6 +23,7 @@ My Email📧: [ses1323k@naver.com](ses1323k@naver.com)
 <summary>
   <h2>🔎My Information</h2>
 </summary>
+ <br>
  
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&duration=700&pause=300&color=203D5C&background=FFFFFF&center=true&vCenter=true&random=true&width=300&height=30&lines=CAU+Art%26Tech;20234383+SimEunSung)](https://git.io/typing-svg)<br><br>
 
