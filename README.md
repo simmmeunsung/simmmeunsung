@@ -1,7 +1,6 @@
-<h1>🐰안녕하세요🐰</h1>
+<h1>🐰Profile🐰</h1>
 
 
-<div align=center>
 
  <br>
  
@@ -44,7 +43,8 @@
 </details>
 
 
-
+<div align=center>
+ 
 <h2>Contect</h2>
 
 📫 연락: [My email📧](ses1323k@naver.com)
