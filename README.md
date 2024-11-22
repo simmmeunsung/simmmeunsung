@@ -11,13 +11,12 @@ My Email📧: [ses1323k@naver.com](ses1323k@naver.com)
   </div>
 
  <br>
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simmmeunsung&hide=contribs,prs&show_icons=true&theme=dark" alt="simmmeunsung's GitHub stats">
+ <div align=center>
 
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimmmeunsung&count_bg=%23999999&title_bg=%23000000&icon=spreaker.svg&icon_color=%23FF8BF9&title=hits&edge_flat=false" alt="Hits">
+ |<img src="https://github-readme-stats.vercel.app/api?username=simmmeunsung&hide=contribs,prs&show_icons=true&theme=dark" alt="simmmeunsung's GitHub stats">|<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimmmeunsung&count_bg=%23999999&title_bg=%23000000&icon=spreaker.svg&icon_color=%23FF8BF9&title=hits&edge_flat=false" alt="Hits">|
+ |-|-|
 
-</p>
+</div>
 
 ***
 <details>
@@ -38,23 +37,10 @@ My Email📧: [ses1323k@naver.com](ses1323k@naver.com)
 </details>
 
 
-<details>
-<summary>
-  <h2>📑My Projects</h2>
-</summary>
- <p align="center">
-  
- </p>
- 
-
-</details>
-
-
-
 
 <details>
  <summary>
- <h2>💻Stack</h2>
+ <h2>💻Stacks</h2>
  </summary>
  
 <h3>3D Tools</h3>
@@ -76,6 +62,18 @@ My Email📧: [ses1323k@naver.com](ses1323k@naver.com)
 
 
  </details>
+
+ <details>
+<summary>
+  <h2>📑My Projects</h2>
+</summary>
+ <p align="center">
+  
+ </p>
+ 
+
+</details>
+
 <br>
 
 ***
