@@ -32,6 +32,8 @@ My Email📧: ses1323k@naver.com
   <br><br>
  <h3>2. Key Roles </h3>
  Designer, Creative Director
+ <h3> - 저와 같이 하면 좋은 🐹</h3>
+ Programmer, Strategic Developer
  <br><br>
  <h3>3. My GitHub Goals</h3>
 Assignment : Project Organization
