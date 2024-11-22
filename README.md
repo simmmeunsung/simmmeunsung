@@ -69,10 +69,27 @@ Assignment : Project Organization
 <summary>
   <h2>📑My Projects</h2>
 </summary>
- <p align="center">
+<details>
+ <summary>
+ <h3>Computer Graphics</h3>
+ </summary>
+  컴그내용
+</details>
   
- </p>
- 
+<details>
+ <summary>
+  <h3>Game Engine</h3>
+ </summary>
+ 겜엔내용
+</details>
+
+<details>
+ <summary>
+  <h3>창의학점제</h3>
+ </summary>
+ 내용
+</details>
+
 
 </details>
 
