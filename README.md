@@ -1,30 +1,36 @@
 <h1>🐰안녕하세요🐰</h1>
 
 
-
 <div align=center>
-
 
  <br>
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimmmeunsung&count_bg=%23999999&title_bg=%23000000&icon=spreaker.svg&icon_color=%23FF8BF9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br><br>
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimmmeunsung&count_bg=%23999999&title_bg=%23000000&icon=spreaker.svg&icon_color=%23FF8BF9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h2>My Information</h2>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&duration=700&pause=300&color=203D5C&background=FFFFFF&center=true&vCenter=true&random=true&width=300&height=30&lines=CAU+Art%26Tech;20234383+SimEunSung)](https://git.io/typing-svg)<br><br>
-
-<h3>Contect</h3>
-
-📫 연락: [My email📧](ses1323k@naver.com)
-
-<br>
-
+<details>
+<summary>
+  <h2>My Information</h2>
+</summary>
+ 
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&duration=700&pause=300&color=203D5C&background=FFFFFF&center=true&vCenter=true&random=true&width=300&height=30&lines=CAU+Art%26Tech;20234383+SimEunSung)](https://git.io/typing-svg)<br><br>
+  
  | School |       
 | --- | 
 | 봉황초등학교 | 
 | 가야중학교 |
 | 김해분성여고 |
 | 중앙대학교 |
+
+
+
+</details>
+
+
+
+<h2>Contect</h2>
+
+📫 연락: [My email📧](ses1323k@naver.com)
+
 
 
   </div>
