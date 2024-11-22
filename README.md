@@ -26,13 +26,12 @@ My Email📧: [ses1323k@naver.com](ses1323k@naver.com)
 </summary>
  
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&duration=700&pause=300&color=203D5C&background=FFFFFF&center=true&vCenter=true&random=true&width=300&height=30&lines=CAU+Art%26Tech;20234383+SimEunSung)](https://git.io/typing-svg)<br><br>
+
+ <h3>Field</h3>
+ Design, Photography
+  <br><br>
   
- | School |       
-| --- | 
-| 봉황초등학교 | 
-| 가야중학교 |
-| 김해분성여고 |
-| 중앙대학교 |
+
 
 
 
