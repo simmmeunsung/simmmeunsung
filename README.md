@@ -60,7 +60,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&pause=1000&color=F785BC&background=000000&center=true&vCenter=true&width=435&lines=+++++%D9%A9(%E2%9C%BF%E2%88%82%E2%80%BF%E2%88%82%E2%9C%BF)%DB%B6+Follow+Me++%D9%A9(%E2%9C%BF%E2%88%82%E2%80%BF%E2%88%82%E2%9C%BF)%DB%B6)](https://git.io/typing-svg)
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%8B%AC%EC%9D%80%EC%84%B1-g6d)](https://www.youtube.com/@%EC%8B%AC%EC%9D%80%EC%84%B1-g6d)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-FFFFF0?style=flat-square&logo=Instagram&logoColor=8B4513&link=https://www.instagram.com/gnuxnue/)](https://www.instagram.com/gnuxnue/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-FFFFF0?style=flat-square&logo=Instagram&logoColor=8B4513&link=https://www.instagram.com/gnuxnue/)](https://www.instagram.com/gnuxnue)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Titan+One&size=15&duration=700&pause=300&color=5C442B&background=CAFCFF&center=true&vCenter=true&repeat=false&random=true&width=200&height=20&lines=%EF%BB%BF%E2%80%A2%EF%B8%A0%E1%B4%A5%E2%80%A2%EF%B8%A1+My+Puppy+Mansik%EF%BB%BF%E2%80%A2%EF%B8%A0%E1%B4%A5%E2%80%A2%EF%B8%A1+)](https://git.io/typing-svg)
