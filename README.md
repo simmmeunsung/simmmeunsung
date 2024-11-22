@@ -33,7 +33,7 @@
 
 <details>
 <summary>
-  <h2>🔎My Projects</h2>
+  <h2>📑My Projects</h2>
 </summary>
  <p align="center">
   
