@@ -2,7 +2,7 @@
 
 <div align=center>
  
-<h3>☎️Contact</h3>
+<h3>Email</h3>
 
 My Email📧: ses1323k@naver.com
 
