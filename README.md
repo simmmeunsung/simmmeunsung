@@ -1,10 +1,9 @@
 <h1>🐰Profile🐰</h1>
 
 <div align=center>
- 
-<h3>Email</h3>
 
-My Email📧: ses1323k@naver.com
+
+<h3>My Email📧: ses1323k@naver.com</h3>
 
 ***
 
