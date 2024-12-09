@@ -90,7 +90,7 @@ Progress: 진행률 100%<br><br>
 <img width="300" alt="KakaoTalk_20241122_133842771" src="https://github.com/user-attachments/assets/fdedc2da-fd69-456b-8d59-e0e4c7f26ea9">
 
 [Maze & Game design] <br>
-<img width="300" alt="KakaoTalk_20241122_090843947" src="https://github.com/user-attachments/assets/1924356c-de1e-46fe-9442-34d6b7ae6529">
+<img width="300" alt="KakaoTalk_20241122_090843947" src="https://github.com/user-attachments/assets/1924356c-de1e-46fe-9442-34d6b7ae6529"><br>
 [Place the SOR model in the maze] <br>
 [Game implementation] <br>
 <br>
