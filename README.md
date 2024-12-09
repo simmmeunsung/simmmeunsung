@@ -83,16 +83,14 @@ Language: C++ <br>
 나의역할: 미로 구성, 게임 디자인, 일부 기능 구현<br>
  <br>
 ***[Current Status]*** <br>
-Current Stage: 개발중<br>
-Progress: 진행률 50%<br><br>
+Current Stage: 개발 완료<br>
+Progress: 진행률 100%<br><br>
 **-완료-**  <br>
 [SOR Modeller] <br>
 <img width="300" alt="KakaoTalk_20241122_133842771" src="https://github.com/user-attachments/assets/fdedc2da-fd69-456b-8d59-e0e4c7f26ea9">
 
 [Maze & Game design] <br>
 <img width="300" alt="KakaoTalk_20241122_090843947" src="https://github.com/user-attachments/assets/1924356c-de1e-46fe-9442-34d6b7ae6529">
-
-**-진행중-**  <br>
 [Place the SOR model in the maze] <br>
 [Game implementation] <br>
 <br>
@@ -117,7 +115,7 @@ Language: C# <br>
  <br>
 ***[Current Status]*** <br>
 Current Stage: 개발중<br>
-Progress: 진행률 30%<br><br>
+Progress: 진행률 80%<br><br>
 **-완료-**  <br>
 [Flow Chart] <br>
 
